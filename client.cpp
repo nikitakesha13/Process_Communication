@@ -1,12 +1,3 @@
-/*
-    Tanzir Ahmed
-    Department of Computer Science & Engineering
-    Texas A&M University
-    Date  : 2/8/20
-	NAME: Nikita Udodenko
-	UIN: 729008431
-	YouTube link: https://youtu.be/zyREjbzdoyk
- */
 #include "common.h"
 #include <sys/wait.h>
 #include "FIFOreqchannel.h"
